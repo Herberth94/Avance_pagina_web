@@ -1,3 +1,7 @@
+# Avances de página web
+
+Avance de página web Delfos 369 Es un avance en la página web de la compañía Delfos 369.Lo que a realizado es el renderizado por medio de react , Esta por realizarse el formulario para cuando el usuario requiera cotización Falta alinear algunas imagenes con los textos, alinear logo con menu Agregar algunos colores de la empresa.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
