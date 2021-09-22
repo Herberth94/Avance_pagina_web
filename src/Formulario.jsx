@@ -22,7 +22,7 @@ export  function Formulario() {
 
     const enviarDatos =(event) => {
         event.preventDefault();
-        console.log(datos.nombre +''+datos.email +' '+ datos.numero + ''+ datos.texto)
+        //console.log(datos.nombre +''+datos.email +' '+ datos.numero + ''+ datos.texto)
         event.target.reset()
 
     }
