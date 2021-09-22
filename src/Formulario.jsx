@@ -14,6 +14,7 @@ export  function Formulario() {
         
    })
     const handleInputChange = (event) => {
+        
         //console.log(event.target.value)
         setDatos ({
             ...datos,[event.target.name] : event.target.value ,
@@ -22,6 +23,7 @@ export  function Formulario() {
 
     const enviarDatos =(event) => {
         event.preventDefault();
+        //guardado de datos
         //console.log(datos.nombre +''+datos.email +' '+ datos.numero + ''+ datos.texto)
         event.target.reset()
 
